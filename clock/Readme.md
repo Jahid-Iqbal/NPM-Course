@@ -8,7 +8,7 @@ Create a clock that will be keep updating using moment.js
 * Creating a folder named `src`
 * Creating a file named `index.html`
 * Creating files under `src` folder `index.js` and `style.css`
-* Copy the code of `moment.js` to `index.js` file.
+* Copy the code of `moment.js` to `index.js` file also paste the code in the browser console.
 
 **Implement below additional code:**  
 ```js
